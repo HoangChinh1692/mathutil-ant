@@ -10,5 +10,5 @@ Framework and DDT
 ### Screenshots
  ![source_code_junit](https://github.com/HoangChinh1692/mathutil-ant/blob/main/screenshots/source_code_with_junit.png)
 
-### Connect me via chinhnguyen1692000z@gmail.com
+### Contact me via chinhnguyen1692000z@gmail.com
 #### Copyright &#169; 2023 chinhnguyen
