@@ -31,7 +31,7 @@ public class MathUtility {
         //sống sót đến đây, sure n =2..20
         //for hay đệ quy mà 
         long product = 1; //biến tích lũy, gom việc nhân i vào
-        for (int i = 2; i <= n; i++) {
+        for (int i = 2; i < n; i++) { // make code wrong
             product *= i;
         }
 
